@@ -135,9 +135,7 @@ Preguntas:
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
-        a) heading
-        b) hed
-        c) h6
+       
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
