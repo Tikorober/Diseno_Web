@@ -6,16 +6,28 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
+2. Es un enlace no secuencial que permite acceder a otros textos.
 
 2. ¿Qué es la hipermedia? (valor 1.0)
+3. Son los enlaces que me permiten ir a archivos de tipo imagenes, video, audio, textos, etc..
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
+es una estructura logica en forma de arbol que me puede ser comprensible tanto para humanos como para maquinas.
+
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
+5. Ya tiene etiquetas que al identificar sus inicales me sugieren mas.
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
 
+es como el tradcutor de un documento html a una pagina web para poder visualizar su contenido visual interactivo. se le llama tecnicamente renderizacion.
+7. 
+
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+7. html
+8. java
+9. css
+10. 
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -25,10 +37,15 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
+2. coipar, pegar, copiar, ajustar y deshacer.
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+3. word
+4. block de notas
+5. html
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+4. html
 
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
