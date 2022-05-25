@@ -48,8 +48,13 @@ Preguntas:
 4. html
 
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
+5. ccs
 
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+6. jpg
+7. png
+8. gif
+9. 
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
@@ -57,7 +62,7 @@ a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
+     
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
@@ -66,43 +71,44 @@ Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el 
 Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
+Las etiquetas HTML son fragmentos de código que nos permiten crear elementos HTML que va dentro de los signos <> 
+y los elementos son las estructura básica del html y son atributos y elementos.
+
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
-etiqueta
+
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
-        información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
+       
   
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-        a) header
-        b) footer
-        c) nav
+       
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
+       
         c) time
-        d) span
+        
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+6. header es el encabezado de l apagina donde encontraremso generalmente el logo y un menu
+8. section y una parte de texto que describe algo de la pagian
+9. nav es la parte de la barra de menus que encontramos en nuestra pagina
+10. aside es la parte que da un listado a lado 
+11. main es la parte centrar de la pagian donde se enceuntran informacion de la pagina con texto , imagenes, videos, etc..
+12. footer es el pie de pagina aqui podemos encontrar redes sociales y datso de contacto
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+        1. <img "birthday.jpg"> <img src="">
+        2. <i>Congratulations!<i> <i>Congratulations!</i>
+        3. <a href="file.html">Enlace de texto</a href="file.html">  <a href="file.html">Enlace de texto</a> 
+        4. <p>Esto es un párrafo</p>
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
