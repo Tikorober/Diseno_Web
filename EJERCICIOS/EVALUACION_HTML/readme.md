@@ -167,15 +167,13 @@ Preguntas:
   
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   
-        a) <a href="url" target="new">
+       
         b) <a href="url" target="_blank">
-        c) <a href="url" new>
+       
   
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
   
-          a) thead body  tr
-          b) table  tr  tt
-          c) table  head  tfoot
+         
           d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
@@ -186,17 +184,15 @@ Preguntas:
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
-          a) list
+          
           b) ol
-          c) ul
-          d) dl
+          
   
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
-          a) ol
+      
           b) ul
-          c) list
-          d) dl
+          
   
 13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
   
@@ -207,9 +203,7 @@ Preguntas:
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
+        
           d) input type="text"
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
@@ -222,8 +216,7 @@ Preguntas:
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
   
           a) input type="textbox"
-          b) input type="textarea"
-          c) textarea
+        
   
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
@@ -270,9 +263,9 @@ c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5
   
 24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
   
-        a) bottom
+      
         b) footer
-        c) section
+      
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
