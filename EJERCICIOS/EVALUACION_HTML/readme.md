@@ -129,9 +129,7 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
     
-        a) Home Tool Markup Language
-        b) Hyperlinks and Text Markup Language
-        c) Hyper Text Markup Language
+        c) Hyper Text Markup Language 
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
@@ -140,22 +138,19 @@ Preguntas:
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
-        a) lb
         b) br
-        c) break
+      
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
-        b) <body bg="yellow">
+      
         c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
-        a) b
+        
         b) strong
-        c) i
-        d) important
+     
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
