@@ -276,6 +276,7 @@ c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
 ![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
+
 <!DOCTYPE html>
             <html lang="en">
             <head>
@@ -322,6 +323,27 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
 
                     </aside>
                     </main>
+
+
+
+
+
+
+
+                </header>
+
+
+
+            <Footer>
+            <h4>seccion de informacion de contacto,derechos de autor,etc</h4>
+
+
+            </Footer>
+
+                
+            </body>
+            </html>
+
 
   Debes tener en cuenta los siguientes requisitos:
   
