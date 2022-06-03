@@ -152,6 +152,9 @@ El borde derecho = 1 píxel
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la
 maquetación en código html y css, valor 36)
 
+![image](https://user-images.githubusercontent.com/101749850/171932748-4a702c92-7546-42e1-96f5-d7b3386a0383.png)
+
+
 ![image](https://user-images.githubusercontent.com/91554777/166742177-b3cc2bfc-7768-42e4-b4f0-dcc2a1473935.png)
 
 ● Este ejercicio lo deberás realizar con las etiquetas de HTML5, haciendo uso de los elementos semánticos de HTML5.
@@ -178,6 +181,88 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css7estilos_1.css">
+    <title>examen</title>
+
+    <style>
+        ul{
+            display: flex;
+            align-items: right;
+            justify-content: right;
+            margin direction: none;
+            word-spacing: 20px
+                                    }
+
+
+    main{
+        background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+     
+        height: 60vh;
+        color: white;
+        font-size: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-repeat: no-repeat;
+    }
+    
+        
+    
+    h3{
+        color: rgb(196, 157, 32);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }
+    h4{
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+        font-weight:bold;
+        color: rgb(66, 61, 61);
+        
+    }    
+    </style>
+
+    <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt=""><hr>
+    <ul>
+        <li>Residentes</li>
+        <li>Negocios</li>
+        <li>Visitantes</li>
+        <li>Gobierno</li>
+    </ul>
+
+</head>
+
+<main>
+
+    <P> >APRENDE A PROGRAMAR <br>
+            EN LAS ESCUELAS <br>
+                  DE CODIGO <br>
+                 EN LA CDMX </P>
+                
+    
+    
+</main>
+
+
+<footer>
+       <h3> Quien se puede insribir ?</h3>  <br>
+       <h4> Cualquier persona que quiera aprender a progamar código y cuente con 4-8 horas disponibles a la semana. <br>
+        "Menores de edad deberan entrar a las instalaciones acompañados de un adulto"</p></h4>
+
+
+</footer>
+
+
+
+</html>
           
           
           
